@@ -1,7 +1,7 @@
 {
   "qq_number": "2710035502",
   "group_number": "850224450",
-  "updated_at": "2026-06-11T17:39:22+00:00",
+  "updated_at": "2026-06-11T17:40:03+00:00",
   "skins": [
     {
       "name": "乐妍贴纸底包1",
@@ -2372,6 +2372,12 @@
       "file": "电子小猫iOS脆.bdi",
       "thumb": "电子小猫iOS脆.bdi_py_26_light_thumb.png",
       "full": "电子小猫iOS脆.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "电子小猫闷",
+      "file": "电子小猫安卓闷.bds",
+      "thumb": "电子小猫安卓闷.bds_py_26_light_thumb.png",
+      "full": "电子小猫安卓闷.bds_py_26_light_thumb.png"
     }
   ]
 }
