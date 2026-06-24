@@ -1,7 +1,7 @@
 {
   "qq_number": "2710035502",
   "group_number": "850224450",
-  "updated_at": "2026-06-24T04:22:43+00:00",
+  "updated_at": "2026-06-24T04:23:44+00:00",
   "skins": [
     {
       "name": "乐妍贴纸底包1",
@@ -2414,6 +2414,12 @@
       "file": "喵系宅妹iOS脆.bdi",
       "thumb": "喵系宅妹iOS脆.bdi_py_26_light_thumb.png",
       "full": "喵系宅妹iOS脆.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "喵系宅妹脆",
+      "file": "喵系宅妹安卓脆.bds",
+      "thumb": "喵系宅妹安卓脆.bds_py_26_light_thumb.png",
+      "full": "喵系宅妹安卓脆.bds_py_26_light_thumb.png"
     }
   ]
 }
